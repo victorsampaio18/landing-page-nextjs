@@ -1,6 +1,6 @@
 <h1 align="center">Landing Page</h1>
 
-Esse é um projeto de uma Landing Page simples, responsiva e moderna para apresentação de empreendimentos que foi solicitado em um processo seletivo. Esse projeto foi desenvolvido com **Next.js 14**, **React**, **HTML5**, **Tailwind CSS** e **TypeScript**.
+Esse é um projeto de uma Landing Page simples, responsiva e moderna para apresentação de empreendimentos que foi solicitado em um processo seletivo. Esse projeto foi desenvolvido com **Next.js**, **React**, **HTML**, **Tailwind CSS** e **TypeScript**.
 
 # Funcionalidades
 - Layout 100% responsivo
